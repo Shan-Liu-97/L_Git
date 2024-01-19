@@ -1,0 +1,7 @@
+.[oa]
+*.txt
+*~
+log/
+build/
+doc/*.txt
+doc/**/*.pdf
