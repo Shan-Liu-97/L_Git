@@ -1,6 +1,9 @@
-.[oa]
+*.[oa]
 *.txt
 *~
+
+
+
 log/
 build/
 doc/*.txt
